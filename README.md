@@ -5,6 +5,7 @@ DHAMANI is a smart, scalable platform designed to streamline blood donation and 
 It aims to reduce delays in emergency situations by automating donor matching, tracking blood availability, and enabling quick communication between stakeholders.
 
 🚀 Features
+
 🔍 Smart Donor Matching
 Matches donors and recipients based on blood group, location, and availability.
 
