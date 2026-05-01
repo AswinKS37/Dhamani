@@ -7,16 +7,22 @@ It aims to reduce delays in emergency situations by automating donor matching, t
 🚀 Features
 🔍 Smart Donor Matching
 Matches donors and recipients based on blood group, location, and availability.
+
 📍 Location-Based Search
 Finds nearby donors using geolocation to reduce response time.
+
 🗃️ Blood Inventory Management
 Tracks blood stock across hospitals and donation centers.
+
 🔔 Real-Time Notifications
 Sends alerts via SMS/Email to eligible donors during urgent needs.
+
 👤 User Roles
+
 Donors
 Recipients
 Hospitals/Admins
+
 📊 Dashboard & Analytics
 Monitor donation trends, request history, and system activity.
 🛠️ Tech Stack
